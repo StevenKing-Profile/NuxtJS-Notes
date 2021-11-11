@@ -1,0 +1,1 @@
+* ECMAScript 2015 (ES6) was the second major revision to JavaScript.
